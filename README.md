@@ -1,2 +1,7 @@
 # AdventOfCode2016
-The holiday season approaches...
+
+Feeling a bit festive, so I return to Advent of Code. 🎄
+
+This year's problems will be solved in Ruby.
+
+![labubu.png](labubu.png)
